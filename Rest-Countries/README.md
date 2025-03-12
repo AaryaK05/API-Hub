@@ -2,7 +2,8 @@
 
 ## Overview
 A simple web app that shows country information using the Rest countries API.
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9620dc40-ab33-41f9-ae22-45a88e653d1a)
+
 
 ## Technologies Used
 - Ejs
