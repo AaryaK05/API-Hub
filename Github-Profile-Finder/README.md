@@ -9,12 +9,13 @@ A Github Profile finder that displays Profile stats.
 - HTML/CSS
 
 ## Prerequisite
-- Node.js
-- npm
-
+To run this project you need these installed and running-
+- Node.js(v18 or above)
+- npm(v7 or above)
+  
 ## How to run this file localy-
-- Download this folder
-- Navigate to the directory and type 'npm i' to install dependencies.
-- Then 'npm start' to run the project.
+- Download or clone this folder
+- Navigate to the directory in terminal and type 'npm i' to install dependencies.
+- Then type 'npm start' to run the project.
 
 
