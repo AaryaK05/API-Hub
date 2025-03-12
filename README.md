@@ -5,21 +5,13 @@
 A collection of **beginner-friendly API-based projects** to help you understand real-world development and start contributing to open source!🚀  
 ---
 
-## 🌟 Why This Project?  
-✅ Get hands-on experience with real APIs  
-✅ Build small but useful projects  
-✅ Improve your JavaScript and API handling skills  
-✅ Make your first open-source contribution  
-✅ Get recognized in the Contributors section  
 
----
 
 ## 🛠️ Tech Stack  
 | Frontend | Backend | API Integration |  
 |----------|---------|----------------|  
 | HTML, CSS, JavaScript,React | Node.js, Express.js,EJS | REST APIs |  
 
----
 
 ## 💻 Projects Included
 | Project | Description | API Used |
@@ -29,10 +21,14 @@ A collection of **beginner-friendly API-based projects** to help you understand 
 
 ---
 
+
 ## 🚀 How to Run Locally  
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/AaryaK05/API-Hub.git
 ```
+
+## Want to Contribute?
+  Check out CONTRIBUTING.md on how to contribute!
 
 For more info, navigate to that directory.
