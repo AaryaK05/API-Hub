@@ -10,12 +10,13 @@ A simple web app that shows country information using the Rest countries API.
 - HTML/CSS/JS
 
 ## Prerequisite
-- Node.js
-- npm
+To run this project you need these installed and running-
+- Node.js(v18 or above)
+- npm(v7 or above)
 
 ## How to run this file localy-
-- Download this folder
-- Navigate to the directory and type 'npm i' to install dependencies.
-- Then 'nodemon index.js' to run the project.
+- Download or clone this folder
+- Navigate to the directory in terminal and type 'npm i' to install dependencies.
+- Then type 'nodemon index.js' to run the project.
 
 
