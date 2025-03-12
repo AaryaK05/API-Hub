@@ -2,7 +2,7 @@
 
 ## Overview
 A Github Profile finder that displays Profile stats.
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/63a8dabe-0667-4683-9e39-28b1b47fe60e)
 
 ## Technologies Used
 - React.js
